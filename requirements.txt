@@ -1,3 +1,4 @@
 jupyter-book
 sphinx-tags
 sphinx-togglebutton
+sphinx-copybutton
